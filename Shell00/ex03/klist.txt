@@ -1,0 +1,5 @@
+Credentials cache: API:10FECF14-78D5-413D-941C-8A2A17898599
+        Principal: mlefevre@S19.BE
+
+  Issued                Expires               Principal
+Sep  7 16:31:12 2020  Sep  8 02:31:00 2020  krbtgt/S19.BE@S19.BE
